@@ -8,6 +8,5 @@ echo ''
 echo ''
 echo ''
 echo ''
-echo ''
 
 read -p "Press Enter to exit..."
